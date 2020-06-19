@@ -1,3 +1,4 @@
 # practica_github
 Juani Musso
-Marcos
+Marcos Oropel 
+Lautaro Heredia
