@@ -1,5 +1,5 @@
 # practica_github
-Juani Musso
+Juani Musso \n
 Marcos
 Leoooooooo
 Lauta
