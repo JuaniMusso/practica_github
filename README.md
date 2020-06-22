@@ -1,5 +1,2 @@
 # practica_github
-Juani Musso \n
-Marcos
-Leoooooooo
-Lauta
+Somos Marcos, Leo, Lautaro y Juani!
